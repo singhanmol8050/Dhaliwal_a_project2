@@ -1,0 +1,160 @@
+@charset "UTF-8";
+div,p,body,header,footer,section,article,nav 
+{ 
+  /*! margin: 0; */ 
+  padding: 0; 
+} 
+
+img 
+{ 
+  border: none;/
+  margin: 0; 
+  padding: 0; 
+}
+
+
+body 
+{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  color: black;
+  
+  
+}
+
+#Container 
+{
+  justify-content:flex-start;
+}
+
+#logo_header
+{
+ background-color: black;
+}
+#mainheader {
+    text-align: center;
+}
+#Heading h2 {
+    
+  line-height: 5px;
+  letter-spacing: 2px;
+  padding-left: 30px;
+  font-family: 'Bebas+Neue';
+  font-size: 40px
+}
+#Heading p {
+  line-height: 20px;
+  font-family: 'Montserrat';
+  padding-left: 30px;
+  font-size: 18px;
+}
+img {
+    padding-left: 30px;
+    }
+
+#about 
+{
+justify-content:flex-start;
+}
+
+#about h2 
+{
+  
+    line-height: 20px;
+    letter-spacing: 2px;
+    padding-left: 30px;
+    font-family: 'Bebas+Neue';
+    font-size: 40px;
+}
+
+#about p 
+{
+  line-height: 20px;
+  font-family: 'Montserrat';
+  padding-left: 30px;
+  font-size: 18px;
+}
+#beer h2 
+{
+  line-height: 20px;
+    letter-spacing: 2px;
+    padding-left: 30px;
+  font-family: 'Bebas+Neue';
+  font-size: 40px;
+  
+}
+#products 
+{
+  align-items: : flex-start;
+}
+
+#products 
+{
+  justify-content: center;
+}
+
+#products img 
+{
+  align-items: flex-start;
+  padding-left: 30px;
+}
+
+#products ul 
+{
+  align-items: flex-start;
+  font-family: 'Pacifico';
+  font-size: 25px;
+  padding-left: 60px;
+}
+
+#values 
+{
+  align-items: flex-start;
+
+}
+#our_values h2 
+{
+    line-height: 20px;
+    letter-spacing: 2px;
+    padding-left: 30px;
+  font-family: 'Bebas+Neue';
+  font-size: 40px;
+}
+#our_values h3 
+{
+    line-height: 20px;
+    padding-left: 30px;
+  font-family: 'Bebas+Neue';
+  font-size: 26px;
+  }
+
+#our_values h4 {
+    line-height: 20px;
+    padding-left: 30px;
+  font-family: 'Montserrat';
+  font-size: 20px;
+}
+#our_values p {
+  
+  line-height: 15px;
+  font-family: 'Lobster';
+  padding-left: 30px;
+  font-size: 18px;
+
+}
+
+#contact_us h2 {
+ 
+    line-height: 20px;
+    padding-left: 30px;
+  font-family: 'Bebas+Neue';
+  font-size: 40px;
+}
+
+#contact_us p 
+{
+  line-height: 25px;
+  font-family: 'Kanit';
+  padding-left: 30px;
+  font-size: 26px;
+}
